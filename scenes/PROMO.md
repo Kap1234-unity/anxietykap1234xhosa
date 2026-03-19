@@ -14,13 +14,13 @@
 
 `clearText()`
 
-n3: So before we start, how would *you* like to read?
+n3: Ke phambi kokuba siqale, ungathanda *ukufunda njani?
 
 `publish("show_options_bottom")`
 
 # intro-start-2
 
-n3: Now, let's begin our story...
+n3: Ngoku, masiqale ibali lethu ...
 
 ```
 publish("hide_tabs");
